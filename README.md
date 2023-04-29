@@ -32,5 +32,5 @@ Além de elencar outras paletras particulares, onde não consigo compartilhar o 
   
   Local: Palestra para alunos da FIAP - Mar/2023
 
-  [Material:](https://github.com/silva-andrre/Palestras/files/11360149/Seguranca_Cloud_9ASOO.pdf)
+  [Material: Seguranca_Cloud_9ASOO.pdf](https://github.com/silva-andrre/Palestras/files/11360149/Seguranca_Cloud_9ASOO.pdf)
 
