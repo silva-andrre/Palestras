@@ -1,8 +1,5 @@
 # Palestras
-Repositório para compartilhar os materiais que utilizei em palestras públicas.
-
-
-Além de elencar outras paletras particulares, onde não consigo compartilhar o material utilizado.
+Repositório para compartilhar os materiais que utilizei em palestras públicas. Além de, elencar outras paletras particulares, onde não consigo compartilhar o material utilizado.
 
 
 - Palestra sobre Modelagem de Ameaças
