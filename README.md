@@ -11,6 +11,7 @@ Além de elencar outras paletras particulares, onde não consigo compartilhar o 
   
   Local: Privada na Empresa que atuo.
 
+===
 
 - Palestra sobre os Ganhos do Papel de Appsec
 
@@ -18,6 +19,7 @@ Além de elencar outras paletras particulares, onde não consigo compartilhar o 
   
   Local: Privada na Empresa que atuo.
 
+===
 
 - Palestra sobre "Como fazemos segurança na PagSeguro"
   
@@ -25,6 +27,7 @@ Além de elencar outras paletras particulares, onde não consigo compartilhar o 
   
   Local: Estande Virtual da PagSeguro no TDC - Dez/2022
 
+===
 
 - Palestra sobre "Segurança de Aplicações"
   
@@ -34,3 +37,4 @@ Além de elencar outras paletras particulares, onde não consigo compartilhar o 
 
   [Material: Seguranca_Cloud_9ASOO.pdf](https://github.com/silva-andrre/Palestras/files/11360149/Seguranca_Cloud_9ASOO.pdf)
 
+===
