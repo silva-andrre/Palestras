@@ -36,3 +36,11 @@ Repositório para compartilhar os materiais que utilizei em palestras públicas.
   [Material: Seguranca_Cloud_9ASOO.pdf](https://github.com/silva-andrre/Palestras/files/11360149/Seguranca_Cloud_9ASOO.pdf)
 
 ===
+
+- Palestra sobre "Segurança de Aplicações"
+  
+  Público: Turma de Arquitetura da FIAP
+  
+  Local: Palestra para alunos da FIAP - Jun/2023
+
+===
